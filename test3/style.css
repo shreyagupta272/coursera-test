@@ -1,0 +1,31 @@
+.items{
+    background-color: pink;
+    padding: 10px 20px 10px 20px;
+    height: 100%;
+}
+.menu_title{
+    margin: 20px;
+}
+.topic_title{
+    padding: 20px;
+}
+.navbar{
+    padding: 0;
+}
+h1{
+    padding : 20px;
+}
+*{
+    box-sizing: border-box;
+}
+#item1{
+    padding: 20px;
+}
+
+#item2{
+    padding: 20px;
+}
+
+#item3{
+    padding: 20px;
+}
