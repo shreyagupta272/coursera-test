@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+Implementation of responsive webpage designing using HTML and CSS. Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media.
 
-You can use the [editor on GitHub](https://github.com/shreyagupta272/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+How to clone to a github respository and make changes:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Open terminal in your machine. Type "git clone link_to_repository" to bring all the data from github to your local machine. 
+2. Now make changes in your code in the local machine.
+3. When all the changes are made then type "git add ." to add all the content to the github cloud.
+4. "git status" is used to display the data that is not yet commited to the git cloud.
+5. "git commit -m "Your message"" to commit your work.
+6. "git push" is used to push the code you have commited.
 
-### Markdown
+#Restaurant webpage:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is the final implementation of the restaurant's webpage. The webpage contains links to the restraunt's menu page, google map, etc. The page is also responsive in nature. The orientation changes according the device the webpage is viewed on. The website can also be viewed on the mobile screen as well. The link to the site "https://shreyagupta272.github.io/web-development/restaurants_webpage/"
 
-```markdown
-Syntax highlighted code block
+#Library webpage:
 
-# Header 1
-## Header 2
-### Header 3
+It displays the webpage for a library with data on differnent genre provided by the library. The link to the webpage "https://shreyagupta272.github.io/web-development/library_webpage/"
 
-- Bulleted
-- List
+#Starter code:
 
-1. Numbered
-2. List
+It is an implementation of basic commands on HTML. The is for testing how text appears in block level and inline text. The link to the webpage "https://shreyagupta272.github.io/web-development/starter_code/"
 
-**Bold** and _Italic_ and `Code` text
+#Menu display:
 
-[Link](url) and ![Image](src)
-```
+It is an implementation of reponsive layout. As we go in reducing the size of the browser window the page layout automatically changes and adapts to the new page width. The link to the webpage "https://shreyagupta272.github.io/web-development/menu_display/"
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shreyagupta272/coursera-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+All the above webpages are hosted on github. The data for the above project is taken from a coursera course on web development.
